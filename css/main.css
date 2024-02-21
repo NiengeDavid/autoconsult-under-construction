@@ -677,6 +677,10 @@ video {
   height: 1.25rem;
 }
 
+.h-auto {
+  height: auto;
+}
+
 .w-24 {
   width: 6rem;
 }
@@ -1419,6 +1423,10 @@ video {
 
   .md\:pl-0 {
     padding-left: 0px;
+  }
+
+  .md\:pl-1 {
+    padding-left: 0.25rem;
   }
 
   .md\:text-left {
